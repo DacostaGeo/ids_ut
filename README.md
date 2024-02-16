@@ -1,2 +1,2 @@
-# ids_ut
-Se elabora un mapa interactivo del Índice de Desarrollo Social (IDS) 2020 a nivel de Unidades Territoriales (UT) para la Ciudad de México.
+# Índice de Desarrollo Social (IDS) a nivel de Undiades Territoriales (UT), Ciudad de México 2020
+Se elabora un mapa interactivo del Índice de Desarrollo Social (IDS) 2020 a nivel de Unidades Territoriales (UT) para la Ciudad de México. Esta información proviene del portal de Datos Abiertos de la Ciudad de México, siendo el responsable de esta base de datos el Instituto de Planeación Democrática y Prospectiva (IPDP).
